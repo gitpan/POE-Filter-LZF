@@ -1,0 +1,8 @@
+POE::Filter::LZF
+================
+
+1.3	Mon Sep 04 17:42:08 BST 2006
+	- Added pod and pod coverage tests
+	- Added Changes file
+	- Fixed documentation.
+
