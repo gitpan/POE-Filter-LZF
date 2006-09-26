@@ -1,6 +1,9 @@
 POE::Filter::LZF
 ================
 
+1.5	Tue Sep 26 11:37:07 BST 2006
+	- Switched to Module::Install
+
 1.4	Sun Sep 10 09:32:45 BST 2006
 	- Makefile.PL executable. fixed.
 
