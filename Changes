@@ -1,6 +1,9 @@
 POE::Filter::LZF
 ================
 
+1.60	Thu Feb 01 14:30:59 GMT 2007
+	- Makefile.PL now fully Module::Install-ified.
+
 1.5	Tue Sep 26 11:37:07 BST 2006
 	- Switched to Module::Install
 

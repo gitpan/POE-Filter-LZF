@@ -2,14 +2,13 @@ author: Chris Williams <chris@bingosnet.co.uk
 distribution_type: module
 generated_by: Module::Install version 0.64
 license: perl
-module_name: POE::Filter::LZF
 name: POE-Filter-LZF
-no_index:
-  directory:
+no_index: 
+  directory: 
     - inc
     - t
-requires:
+requires: 
   Carp: 0
   Compress::LZF: 1.51
-  POE: 0.3501
-version: 1.5
+  POE: 0.38
+version: 1.60
