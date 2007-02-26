@@ -11,4 +11,4 @@ requires:
   Carp: 0
   Compress::LZF: 1.51
   POE: 0.38
-version: 1.60
+version: 1.61
