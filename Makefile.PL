@@ -6,6 +6,6 @@ version_from 'lib/POE/Filter/LZF.pm';
 abstract_from 'lib/POE/Filter/LZF.pm';
 build_requires 'Test::More' => 0.47;
 requires 'Carp' => 0;
-requires 'POE'    => 0.38;
 requires 'Compress::LZF' => 1.51;
+requires 'POE'    => 0.38;
 WriteAll();
