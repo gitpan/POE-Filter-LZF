@@ -1,6 +1,9 @@
 POE::Filter::LZF
 ================
 
+1.66	Fri Mar  7 07:25:33 GMT 2008
+	- Kwalitee fixes.
+
 1.64	Thu Jan  3 17:59:29 GMT 2008
 	- Added clone() method and updated tests
 

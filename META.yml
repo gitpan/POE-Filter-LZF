@@ -3,6 +3,8 @@ abstract: A POE filter wrapped around Compress::LZF
 author: 
   - Chris Williams <chris@bingosnet.co.uk
 build_requires: 
+  POE::Filter::Line: 0
+  POE::Filter::Stackable: 0
   Test::More: 0.47
 distribution_type: module
 generated_by: Module::Install version 0.68
@@ -19,4 +21,5 @@ requires:
   Carp: 0
   Compress::LZF: 1.51
   POE: 0.38
-version: 1.64
+  POE::Filter: 0
+version: 1.66
