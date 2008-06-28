@@ -1,6 +1,9 @@
 POE::Filter::LZF
 ================
 
+1.68	Sat Jun 28 09:07:41 BST 2008
+	- Added LICENSE information.
+
 1.66	Fri Mar  7 07:25:33 GMT 2008
 	- Kwalitee fixes.
 
